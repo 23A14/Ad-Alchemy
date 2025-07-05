@@ -123,7 +123,6 @@ MarkupSafe==2.1.5
 marshmallow==3.26.1
 matplotlib==3.10.1
 mdurl==0.1.2
-mediapipe==0.10.7
 mistralai==1.5.0
 ml_dtypes==0.5.1
 more-itertools==10.6.0
@@ -160,7 +159,7 @@ preshed==3.0.9
 prompt_toolkit==3.0.50
 Protego==0.4.0
 proto-plus==1.26.0
-protobuf>=2.21,<6.0.0dev
+protobuf==5.26.1
 psutil==7.0.0
 pyarrow==19.0.1
 pyasn1==0.6.1
