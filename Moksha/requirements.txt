@@ -164,7 +164,6 @@ psutil==7.0.0
 pyarrow==19.0.1
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
-PyAudio==0.2.14
 pycparser==2.22
 pydantic==2.10.6
 pydantic-settings==2.7.1
@@ -194,7 +193,6 @@ PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-multipart==0.0.20
-PyAudio==0.2.14
 pyttsx3==2.98
 pytube==15.0.0
 pytz==2024.2
