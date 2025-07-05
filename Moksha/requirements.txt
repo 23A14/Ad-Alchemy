@@ -198,7 +198,6 @@ python-multipart==0.0.20
 pyttsx3==2.98
 pytube==15.0.0
 pytz==2024.2
-pywin32==30; sys_platform == "win32"
 PyYAML==6.0.2
 qt5-applications==5.15.2.2.3
 qt5-tools==5.15.2.1.3
