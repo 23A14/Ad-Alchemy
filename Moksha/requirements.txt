@@ -194,6 +194,7 @@ PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-multipart==0.0.20
+PyAudio==0.2.14
 pyttsx3==2.98
 pytube==15.0.0
 pytz==2024.2
